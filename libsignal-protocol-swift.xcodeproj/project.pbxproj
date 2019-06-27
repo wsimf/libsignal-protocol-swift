@@ -1135,13 +1135,13 @@
 			isa = PBXGroup;
 			children = (
 				CE1F0C76203468B8003F1C04 /* Additional */,
-				CE1F0C772034696C003F1C04 /* libsignal-protocol-c */,
 				CEE3453420351369001FE63B /* Misc */,
 				CEEAACDD2036E08400D6B57F /* Sessions */,
-				CECF5C982035B285004A4D28 /* Setup */,
-				CE1F0C38203467B3003F1C04 /* SignalProtocol.h */,
 				CEE345332035135B001FE63B /* Stores */,
 				CECEE2D72034A71100522C00 /* StoreWrappers */,
+				CECF5C982035B285004A4D28 /* Setup */,
+				CE1F0C772034696C003F1C04 /* libsignal-protocol-c */,
+				CE1F0C38203467B3003F1C04 /* SignalProtocol.h */,
 			);
 			path = "libsignal-protocol-swift";
 			sourceTree = "<group>";
